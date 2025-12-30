@@ -7,4 +7,7 @@
 <a href="https://github.com/sumantgouda/Retail-Store-Sales-Analysis-Project-Using-Python-and-Power-Bi/blob/main/Retail%20Store%20Sales.csv">Dataset</a>
 
 ## Using Python For Data Cleaning
-<a href="https://github.com/sumantgouda/Retail-Store-Sales-Analysis-Project-Using-Python-and-Power-Bi/blob/main/retail_store_sales%20%20data%20analysis%20project.ipynb">Link</a>
+<a href="https://github.com/sumantgouda/Retail-Store-Sales-Analysis-Project-Using-Python-and-Power-Bi/blob/main/retail_store_sales%20%20data%20analysis%20project.ipynb">View</a>
+
+## View Dashboard
+<a href="https://github.com/sumantgouda/Retail-Store-Sales-Analysis-Project-Using-Python-and-Power-Bi/blob/main/Screenshot%20(111).png">View</a>
